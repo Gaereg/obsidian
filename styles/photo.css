@@ -1,0 +1,41 @@
+.photos{
+	width: 1100px;
+	height: auto;
+	margin: auto;
+	margin-bottom: 30px;
+	border-top: 1px solid rgba(255,255,255,0.3);
+	height: 1724px;
+}
+
+.photos>img{
+	float: left;
+	margin: 0 0 4px 4px;
+}
+
+.photo-G1{
+	width: 616px;
+}
+
+.photo-P1{
+	width: 457.7px;
+}
+
+.photo-G2{
+	width: 717px;
+}
+
+.photo-P2{
+	width: 356px;
+}
+
+.photo-P3{
+	width: 423px;
+}
+
+.photo-P4{
+	width: 447px;
+}
+
+.photo-P5{
+	width: 200px;
+}
