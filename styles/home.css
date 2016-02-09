@@ -1,0 +1,119 @@
+.home-baner{
+	height: 90vh;
+	width: 100%;
+	display: flex;
+	background-size: cover !important;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.home-video{
+	width: 1100px;
+	margin: auto;
+	min-height: 292px;
+	border-bottom: 1px solid rgba(255,255,255,0.3);
+	margin-bottom: 100px;
+}
+
+.video-titre{
+	height: 40px;
+	border-bottom: 1px solid rgba(255,255,255,0.3);
+}
+
+.video-titre>h2{
+	float: left;
+}
+
+.video-titre>p{
+	float: right;
+	color: grey;
+	font-size: 90%;
+}
+
+.video-content>figure{
+	width: 31.45%;
+	float: left;
+	margin-bottom: 20px;
+	margin: 0;
+}
+
+.video-left{
+	padding-right: 15px;
+}
+
+.video-middle{
+	padding: 0 15px 0 15px;
+}
+
+.video-right{
+	padding-left: 15px;
+}
+
+.video-content>figure>img{
+	width: 100%;
+}
+
+.video-bordered{
+	border-right: 1px solid rgba(255,255,255,0.3);
+	border-left: 1px solid rgba(255,255,255,0.3);
+}
+
+.video-content>figure>figcaption{
+	font-size: 110%;
+	height: 50px;
+	line-height: 50px;
+}
+
+.upcoming{
+	width: 1100px;
+	margin: auto;
+}
+
+.upcoming-titre{
+	border-bottom: 1px solid rgba(255,255,255,0.3);
+	padding-bottom: 10px;
+}
+
+.tab-ligne{
+	display: flex;
+	align-content: flex-start;
+	flex-wrap: wrap;
+	align-items: center;
+	border-bottom: 1px solid rgba(255,255,255,0.3);
+	padding: 15px 0 15px 0;
+	color: #CBCBCB;
+}
+
+.mois{
+	width: 50px;
+	font-size: 85%;
+}
+
+.jours{
+	width: 100px;
+	font-weight: 700;
+	font-size: 130%;
+	color: white;
+}
+
+.villes{
+	width: 500px;
+	font-weight: 700;
+}
+
+.tab-titre{
+	width: 450px;
+}
+.tab-ligne>p{
+	margin-left: 150px;
+	font-size: 80%;
+}
+
+.upcoming>p{
+	text-align: center;
+	font-size: 90%;
+	font-weight: 600;
+	color: #CBCBCB;
+	margin-top: 20px;
+}
